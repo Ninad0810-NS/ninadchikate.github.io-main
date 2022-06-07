@@ -1,0 +1,43 @@
+@import url(//db.onlinewebfonts.com/c/4053837519f2a20cd733848fc1f9aa03?family=Lucida+Calligraphy);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+.picture{
+    /* background-image: url('../../assets/Home/profile.jpeg'); */
+    height: 100%;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.primary-text{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.hello{
+    font-family: "Lucida Calligraphy";
+    color: #c92121;
+    font-Weight: bold;
+    font-Size: 35px ;
+}
+.desc{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+
+}
+
+.skill{
+    font-family:'Georgia';
+    font-size: large;
+}
+.skills-header {
+    font-size: 60px;
+    line-height: normal;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;  
+    text-align: center;
+    
+  }
+
+.second_title{
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    margin-bottom: 30px;
+}
