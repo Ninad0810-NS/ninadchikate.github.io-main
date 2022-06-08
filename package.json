@@ -1,5 +1,5 @@
 {
-  "homepage": "https://ninad0510.github.io/ninadchikate.github.io-main",
+  "homepage": "https://ninad0510.github.io",
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
@@ -24,6 +24,8 @@
     "web-vitals": "^2.1.3"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build -r <https://github.com/ninad0510/ninadchikate.github.io-main.git>",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
