@@ -266,7 +266,7 @@ export const certifications = {
 };
 
 export const experience_work = {
-  title: "Programer Analyst Trainee",
+  title: "Programer Analyst Tra      inee",
   subtitle: " I Currently worked IT company as a Digital Analytics",
   company: "Cognizant Technology Solutions Ind Pvt. Ltd.",
   logo_path: "cognizant_logo.png",
