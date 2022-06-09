@@ -1,4 +1,4 @@
-import { Icon } from '@iconify/react';
+// import { Icon } from '@iconify/react';
 export const details = {
     title: "Ninad Chikate",
     firstname: "Ninad",
